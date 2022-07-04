@@ -1,2 +1,2 @@
 # Fullstack-Part0
-Fullstack part0 homework
+All of the exercises I have done will be here.

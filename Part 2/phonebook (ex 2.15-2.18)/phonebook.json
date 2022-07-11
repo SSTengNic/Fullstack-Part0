@@ -1,0 +1,14 @@
+{
+  "phonebook": [
+    {
+      "id": 1,
+      "name": "Arto Hellas",
+      "number": "9079789"
+    },
+    {
+      "id": 2,
+      "name": "Dan Abramov",
+      "number": "12-43-234345"
+    }
+  ]
+}

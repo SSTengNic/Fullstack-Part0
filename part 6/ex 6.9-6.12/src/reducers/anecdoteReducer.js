@@ -45,7 +45,7 @@ const noteSlice = createSlice({
       const content = action.payload
       state.push({
         content,
-        important: false,
+        votes: 0,
         id: getId()
       })
     }
